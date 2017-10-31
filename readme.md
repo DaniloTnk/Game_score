@@ -35,5 +35,8 @@ Há um arquivo de configuração (config.py) com algumas variáveis globais util
 
 ## Testes
 
-O código está com uma cobertura de testes de 94%. Sendo que os 6% não cobertos são exeções de erro.
-O arquivo de testes /test/test.py utiliza por padrão os logs que estão na sua pasta.
+O código está com uma cobertura de testes de 99%. Foi utlizado TDD durante o desenvolvimento.
+O arquivo de testes /test/unnit_test.py utiliza por padrão os logs que estão na sua pasta.
+O arquivo Test Result - Unnitests_in_unnit_tests.html é um relatório gerado de acordo com os resultados dos testes realizados.
+
+
